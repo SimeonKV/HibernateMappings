@@ -1,0 +1,1 @@
+ManyToOne unidirectional mapping with @JoinTable,avoids null records as opposed to mapping with @JoinColum
